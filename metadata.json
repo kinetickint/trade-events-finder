@@ -1,0 +1,7 @@
+{
+  "name": "EPC Trade Scout",
+  "description": "Real-time discovery and analysis of global trade events, fairs, and delegation meetings for Export Promotion Council members using Google Search and Gemini Intelligence.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
